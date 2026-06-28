@@ -5,7 +5,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,50:00b4d8,100:0d0d0d&height=200&section=header&text=Jainish%20Khunt&fontSize=62&fontColor=ffffff&fontAlignY=45&desc=AI%20%2F%20ML%20Engineer%20%7C%20GenAI%20%7C%20Agentic%20AI%20%7C%205×%20Oracle%20Certified%20%7C%20Anthropic%20Claude%20API&descSize=14&descAlignY=68&descFontColor=90e0ef&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:03045e,40:0077b6,80:00b4d8,100:90e0ef&height=220&section=header&text=Jainish%20Khunt&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%7C%20GenAI%20%7C%20Agentic%20AI%20%7C%205%C3%97%20Oracle%20Certified%20%7C%20Anthropic%20Claude%20API&descSize=15&descAlignY=62&descFontColor=caf0f8&animation=fadeIn" />
 
 </div>
 
@@ -60,10 +60,10 @@ class JainishKhunt:
     ]
 
     certifications = {
-        "Oracle Cloud"   : "5× Certified (AI · GenAI · Data Science · Fusion · TCS iON)",
-        "Anthropic"      : "Building with Claude API",
-        "IBM"            : "Python 101 for Data Science",
-        "Reliance Found.": "ML Engineer Foundation",
+        "Oracle Cloud"    : "5× Certified (AI · GenAI · Data Science · Fusion · TCS iON)",
+        "Anthropic"       : "Building with Claude API",
+        "IBM"             : "Python 101 for Data Science",
+        "Reliance Found." : "ML Engineer Foundation",
     }
 
     fun_fact = "☕ + Python + curiosity = 🤖  Systems that actually think."
@@ -105,7 +105,7 @@ if __name__ == "__main__":
 ![Models](https://img.shields.io/badge/ML%20Models-3%2B%20Deployed-00b4d8?style=flat-square&labelColor=03045e)
 ![Internship](https://img.shields.io/badge/Built%20During-Internship-0077b6?style=flat-square&labelColor=03045e)
 
-> ML-powered platform for early risk assessment across Alzheimer's, Diabetes & Cancer. Firebase auth + cloud storage + real-time health dashboards.
+> ML platform for early risk assessment across Alzheimer's, Diabetes & Cancer. Firebase auth + cloud storage + real-time health dashboards.
 
 `Scikit-Learn` · `FastAPI` · `Firebase` · `NumPy` · `Pandas`
 
@@ -126,22 +126,23 @@ if __name__ == "__main__":
 ### ⚡ Languages
 <img src="https://skillicons.dev/icons?i=c,cpp,python,js,java&theme=dark" />
 
----
+<br/><br/>
 
 ### 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,vite&theme=dark" />&nbsp;
-<img src="https://img.shields.io/badge/JSP%20%2F%20Servlet-orange?style=flat-square&logo=java&logoColor=white&labelColor=161b22" />
+<img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,vite&theme=dark" />
+&nbsp;
+<img src="https://img.shields.io/badge/JSP%20%2F%20Servlet-ED8B00?style=flat-square&logo=java&logoColor=white&labelColor=161b22" />
 
----
+<br/><br/>
 
 ### 🔧 Backend & Database
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,fastapi,mysql&theme=dark" />&nbsp;
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,fastapi,mysql&theme=dark" />
+&nbsp;
 <img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat-square&logo=oracle&logoColor=white&labelColor=161b22" />
 
----
+<br/><br/>
 
 ### 🤖 AI & ML
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white&labelColor=161b22" />
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white&labelColor=161b22" />
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white&labelColor=161b22" />
@@ -156,13 +157,12 @@ if __name__ == "__main__":
 <img src="https://img.shields.io/badge/Agentic%20AI-00b4d8?style=flat-square&logo=python&logoColor=white&labelColor=161b22" />
 <img src="https://img.shields.io/badge/Prompt%20Engineering-0077b6?style=flat-square&logo=openai&logoColor=white&labelColor=161b22" />
 
----
+<br/><br/>
 
 ### 🛠️ Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,firebase&theme=dark" />&nbsp;
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter&theme=dark" />
+&nbsp;
 <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black&labelColor=161b22" />
-<img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black&labelColor=161b22" />
-<img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white&labelColor=161b22" />
 
 </div>
 
@@ -175,6 +175,7 @@ if __name__ == "__main__":
 <a href="https://github.com/Jainish-NK">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=Jainish-NK&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=0077b6&text_color=c9d1d9&include_all_commits=true&count_private=true" />
 </a>
+&nbsp;
 <a href="https://github.com/Jainish-NK">
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jainish-NK&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=c9d1d9&langs_count=8" />
 </a>
@@ -235,29 +236,15 @@ if __name__ == "__main__":
 
 ---
 
-## 🎓 Education
-
-<div align="center">
-
-| Degree | Institute | Year | Score |
-|---|---|:---:|:---:|
-| 🎓 B.Tech — AI & ML | JG University, Ahmedabad | 2024–Present | CGPA: 8.0 / 10 (Sem 4) |
-| 📗 Class XII — Science | Vedant International School, GSEB | 2023–2024 | — |
-| 📘 Class X | Swaminarayan Dham International School, GSEB | 2021–2022 | — |
-
-</div>
-
----
-
-## ⚡ Currently Working On
+## ⚡ Currently
 
 <div align="center">
 
 | 🔭 Building | 🌱 Learning | 🎯 Goal |
 |:---:|:---:|:---:|
-| RAG Pipelines & Agentic AI | Advanced ML · Deep Learning | AI/ML Role @ top product company |
-| Production FastAPI Projects | LangChain · LLMs · MCP | Hackathons & Open Source AI |
-| GenAI Applications | Cloud (AWS / GCP basics) | Research & Real-World Impact |
+| RAG Pipelines & Agentic AI | Machine Learning (Advanced) | AI/ML Role @ top product company |
+| GenAI Applications with Claude API | MERN Stack | Hackathons & Open Source AI |
+| Production FastAPI Projects | Cloud Fundamentals (AWS / GCP) | Research & Real-World Impact |
 
 </div>
 
@@ -295,7 +282,7 @@ if __name__ == "__main__":
 ---
 
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:0077b6,100:0d0d0d&height=130&section=footer&text=Thanks%20for%20visiting!%20🙌&fontSize=24&fontColor=90e0ef&fontAlignY=65&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:90e0ef,40:00b4d8,80:0077b6,100:03045e&height=130&section=footer&text=Thanks%20for%20visiting!%20🙌&fontSize=24&fontColor=ffffff&fontAlignY=65&animation=fadeIn" />
 </div>
 
 <!-- Made with ❤️ by Jainish Khunt | github.com/Jainish-NK -->
